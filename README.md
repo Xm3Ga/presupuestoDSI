@@ -97,6 +97,8 @@
 2. **Alternativas gratuitas**: Muchas herramientas (ej: Firebase, Netlify, Let’s Encrypt) ofrecen planes básicos gratuitos, ideales para proyectos pequeños.  
 3. **Actualizaciones**: Las APIs y políticas de Google (Sheets, Workspace) pueden cambiar; se recomienda revisar su documentación oficial periódicamente.
 
+---
+
 ### **Resumen de Costos**  
 | **Concepto** | **Costo Inicial** | **Costo Anual** |  
 |--------------|--------------------|------------------|  
