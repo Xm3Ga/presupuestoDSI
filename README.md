@@ -58,6 +58,45 @@
 
 ---
 
+### **5. Fuentes y Referencias**  
+#### **5.1 Desarrollo de la Plataforma**  
+| **Concepto** | **Fuente** | **Enlace/Referencia** |  
+|--------------|------------|------------------------|  
+| Costos de desarrollo web/app | Estimaciones de mercado para freelancers y agencias | Plataformas como [Upwork](https://www.upwork.com/) o [Toptal](https://www.toptal.com/). |  
+| Licencias de herramientas | JetBrains, Adobe XD, Figma | [JetBrains Pricing](https://www.jetbrains.com/store/), [Adobe XD](https://www.adobe.com/products/xd.html), [Figma](https://www.figma.com/pricing/). |  
+| Integración con Google Sheets | Google Sheets API | [Google Developers: Sheets API](https://developers.google.com/sheets/api). |  
+
+#### **5.2 Alojamiento y Dominio**  
+| **Concepto** | **Fuente** | **Enlace/Referencia** |  
+|--------------|------------|------------------------|  
+| Dominios | GoDaddy, Google Domains | [GoDaddy](https://www.godaddy.com/), [Google Domains](https://domains.google/). |  
+| Hosting | Firebase, Netlify, AWS | [Firebase Pricing](https://firebase.google.com/pricing), [Netlify](https://www.netlify.com/pricing/). |  
+| Certificados SSL | Let’s Encrypt, Comodo | [Let’s Encrypt](https://letsencrypt.org/), [Comodo SSL](https://www.comodo.com/ssl-certificates/). |  
+
+#### **5.3 Migración de Datos**  
+| **Concepto** | **Fuente** | **Enlace/Referencia** |  
+|--------------|------------|------------------------|  
+| Automatización de datos | Google Apps Script, Zapier | [Google Apps Script](https://developers.google.com/apps-script), [Zapier](https://zapier.com/). |  
+| Pruebas de carga | JMeter, LoadNinja | [JMeter](https://jmeter.apache.org/), [LoadNinja](https://www.loadninja.com/). |  
+
+#### **5.4 Herramientas de Soporte**  
+| **Concepto** | **Fuente** | **Enlace/Referencia** |  
+|--------------|------------|------------------------|  
+| Google Workspace | Google Workspace Pricing | [Google Workspace Plans](https://workspace.google.com/pricing.html). |  
+| Monitoreo | Google Analytics, Datadog | [Google Analytics](https://analytics.google.com/), [Datadog](https://www.datadoghq.com/). |  
+
+#### **5.5 Consideraciones Legales**  
+| **Concepto** | **Fuente** | **Enlace/Referencia** |  
+|--------------|------------|------------------------|  
+| Protección de datos | GDPR, LOPD (España) | [GDPR EU](https://gdpr.eu/), [AEPD](https://www.aepd.es/). |  
+
+---
+
+### **Notas sobre las Fuentes**:  
+1. **Variabilidad de precios**: Los costos de desarrollo y herramientas pueden fluctuar según la región, impuestos o promociones.  
+2. **Alternativas gratuitas**: Muchas herramientas (ej: Firebase, Netlify, Let’s Encrypt) ofrecen planes básicos gratuitos, ideales para proyectos pequeños.  
+3. **Actualizaciones**: Las APIs y políticas de Google (Sheets, Workspace) pueden cambiar; se recomienda revisar su documentación oficial periódicamente.
+
 ### **Resumen de Costos**  
 | **Concepto** | **Costo Inicial** | **Costo Anual** |  
 |--------------|--------------------|------------------|  
